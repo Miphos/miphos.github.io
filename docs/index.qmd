@@ -1,0 +1,11 @@
+---
+title: "Главная страница"
+---
+
+![](png/cat.jpg){fig-align="center" width="1000"}
+
+Сайт создан: **Ивлев Даниил БИСО-02-20** 
+
+Ссылка на основой репрозиторий: <https://github.com/Miphos/Sistemi_auth_and_defend>
+
+Информация была взята с сайта: <https://phdays.com/>
